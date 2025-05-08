@@ -19,13 +19,13 @@ This project is a part of a hackathon run by https://katomaran.com
 ## 📸 Screenshots
 
 ### Registration Tab
-![Registration Tab](assets/registration_tab.png)
+![Registration Tab](attached_assets/registration_tab.png)
 
 ### Recognition Tab
-![Recognition Tab](assets/recognition_tab.png)
+![Recognition Tab](attached_assets/recognition_tab.png)
 
 ### AI Chat Tab
-![AI Chat Tab](assets/ai_chat_tab.png)
+![AI Chat Tab](attached-assets/ai_chat_tab.png)
 
 ---
 
@@ -33,7 +33,7 @@ This project is a part of a hackathon run by https://katomaran.com
 
 Watch the demo video to see the platform in action:
 
-[![Watch the video](assets/video_thumbnail.png)](assets/demo_video.mp4)
+[![Watch the video](attached_assets/video_thumbnail.png)](attached_assets/demo_video.mp4)
 
 ---
 
