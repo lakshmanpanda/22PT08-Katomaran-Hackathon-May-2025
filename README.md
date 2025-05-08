@@ -19,13 +19,13 @@ This project is a part of a hackathon run by https://katomaran.com
 ## 📸 Screenshots
 
 ### Registration Tab
-![Registration Tab](attached_assets/registration_tab.png)
+![Registration Tab](attached_assets/Registerface_UI.png)
 
 ### Recognition Tab
-![Recognition Tab](attached_assets/recognition_tab.png)
+![Recognition Tab](attached_assets/Recognizeface_UI.png)
 
 ### AI Chat Tab
-![AI Chat Tab](attached-assets/ai_chat_tab.png)
+![AI Chat Tab](attached-assets/ChatAI_UI.png)
 
 ---
 
