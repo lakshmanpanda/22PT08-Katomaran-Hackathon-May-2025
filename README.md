@@ -16,6 +16,14 @@ This project is a part of a hackathon run by https://katomaran.com
 
 ---
 
+## 🎥 Demo Video
+
+Watch the demo video to see the platform in action:
+
+[![Watch the video](attached_assets/video_thumbnail.png)](attached_assets/demo_video.mp4)
+
+---
+
 ## 📸 Screenshots
 
 ### Registration Tab
@@ -26,14 +34,6 @@ This project is a part of a hackathon run by https://katomaran.com
 
 ### AI Chat Tab
 ![AI Chat Tab](attached-assets/ChatAI_UI.png)
-
----
-
-## 🎥 Demo Video
-
-Watch the demo video to see the platform in action:
-
-[![Watch the video](attached_assets/video_thumbnail.png)](attached_assets/demo_video.mp4)
 
 ---
 
